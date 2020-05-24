@@ -122,9 +122,13 @@ public class DateTimeOdev {
     public static void main(String[] args) {
 
 
-            System.out.println(  checkAge("06/22/1988")  );
+ //           System.out.println(  checkAge("06/22/1988")  );
+String x="";
+x+="a";
+x+="bb";
+x+="ccc";
 
- //      System.out.println(  checkDates()   );
+ //     System.out.println(  checkDates()   );
  //       System.out.println(  future(100)  );
    //     System.out.println( previous(10));
     }
