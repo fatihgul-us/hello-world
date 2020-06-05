@@ -1,0 +1,35 @@
+4 classes created Cats , Tigers , Lions , HomeCats
+
+Cats class is a abstract class(parent).
+
+All classes should extend Cats class.
+
+
+
+
+All child classes should extend the abstract method in the Cats class
+
+Tiger class abstract method
+      print "Tiger is talking"
+
+Lion class abstract method
+      print "Lion is talking"
+
+HomeCat class abstract method
+      print "Home Cat is talking"
+
+
+in the main class
+create an object for Tigers
+and call  the talking method
+Then call walking method
+
+create an object for Lion
+and call the talking method
+Then call walking method
+
+create an object for HomeCat
+and call the talking method
+Then call walking method
+
+NOTE: print as my order otherwise code will fail.
